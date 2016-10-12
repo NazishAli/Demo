@@ -1,0 +1,22 @@
+{
+  "name": "Demo",
+  "version": "0.1.0",
+  "summary": "A short description of Demo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/Demo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Nazish Ali": "nazish.ali@quickli.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/Demo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Demo/Classes/**/*"
+}
